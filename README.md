@@ -1,4 +1,4 @@
 ios
 ===
 
-iOS development for Stuart
+Stuart's open source iOS projects
