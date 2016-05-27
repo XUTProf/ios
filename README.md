@@ -1,4 +1,4 @@
 ios
 ===
 
-Stuart's open source iOS projects
+Stuart's open source projects for iOS
